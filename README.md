@@ -8,7 +8,7 @@
 </p>
 
 <h1>Task-3 : Exploratory-Data-Analysis---Retail</h1>
-<p>This is the link to the YouTube video to see the solution: <a href="https://youtu.be/3on7SX-9014">youtube</a></p>
+<p>This is the link to the YouTube video to see the solution: <a href="https://youtu.be/bmpWl7mEQTI">youtube</a></p>
 <ul>
   <li>Perform ' Exploratory Data Analysis' on dataset SampleSuperstore.</li>
   <li>As a business manager, try to find out the weak areas where you can work to make more profit.</li>
